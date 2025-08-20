@@ -1,2 +1,2 @@
 NumericalMethod
-Bisection Method
+NumericalMethod
