@@ -1,2 +1,2 @@
-# Bisection-Method
+NumericalMethod
 Bisection Method
